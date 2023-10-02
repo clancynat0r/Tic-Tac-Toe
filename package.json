@@ -2,8 +2,10 @@
     "name": "tictactoe",
     "version": "1.0.0",
     "main": "index.js",
+    "homepage": "https://clancynat0r.github.io/tic-tac-toe/",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
+      "deploy": "gh-pages -d build",
       "start": "nodemon app.js"
     },
     "author": "",
