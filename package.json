@@ -1,6 +1,5 @@
   {
     "name": "tictactoe",
-    "homepage": "https://clancynat0r.github.io/tic-tac-toe/",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
